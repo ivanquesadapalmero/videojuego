@@ -1,6 +1,7 @@
 package videojuego;
 
 // 21/05/2018
+// Iván Quesada Palmero
 
 public class Venusiano extends Extraterrestre {
 
