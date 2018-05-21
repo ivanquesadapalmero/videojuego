@@ -1,5 +1,5 @@
 package videojuego;
-// Clase Venusiano
+// Iván Quesada Palmero
 public class Venusiano extends Extraterrestre {
 
     private int cabezas;
